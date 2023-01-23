@@ -18,7 +18,7 @@ We apply the following models-
 Final Result:
 Classification Based Approach gives a higher accuracy than the other 2 models while predicting the crop yield.
 
-Things to Consider for a better Result:
+Things to Consider for better Results:
 A lot of missing variables like soil quality, humidity, pest like locust etc 
 Can look for a relation between abnormal yields and absolute deviations of factors (rainfall, fertilizer, temperature) from their ideal values
 Could explore non-linear relationships (other than using decision tree- ANN)
